@@ -1,0 +1,26 @@
+# codeseals.dev
+
+Marketing site of CodeSeals Team
+
+## Technologies
+
+- [11ty](https://www.11ty.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [PostCSS](https://postcss.org/)
+
+## Quickstart
+
+1. Run `npm i` to install the modules.
+2. Run `npm run start` to run the project. this will create a `public` folder, where all the developed file will remain.
+
+By default the site will be at `http://localhost:8080`
+
+3. Run `npm run build` to build a production version. 
+
+## Contribution
+
+All contributions, big or small, are welcome!
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
